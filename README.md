@@ -12,8 +12,7 @@ It is a Blurry image effect.
 - CSS
 - JavaScript
 
-## Deployed [here](https://random-quote-generator-mukul.netlify.app/)
 
-## [License](https://github.com/MukulKolpe/Random-Quote-generator/blob/main/LICENSE)
+## [License](https://github.com/MukulKolpe/Blurry-image/blob/main/LICENSE)
 
 
