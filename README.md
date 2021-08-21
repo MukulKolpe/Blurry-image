@@ -3,7 +3,7 @@
 ## Description
 It is a Blurry image effect.
 
-## [Code of Conduct](https://github.com/MukulKolpe/Random-Quote-generator/blob/main/CODE_OF_CONDUCT.md)
+## [Code of Conduct](https://github.com/MukulKolpe/Blurry-image/blob/main/CODE_OF_CONDUCT.md)
 
 ## [Contributing Guidlines](https://github.com/MukulKolpe/Random-Quote-generator/blob/main/CONTRIBUTING.md)
 
