@@ -31,7 +31,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/dailymint.git
+git clone https://github.com/this-is-you/Blurry-image.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -41,7 +41,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd dailymint
+cd Blurry-image
 ```
 
 Now create a branch using the `git checkout` command:
